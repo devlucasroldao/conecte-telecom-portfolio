@@ -19,22 +19,6 @@ A Conecte Telecom é um provedor de internet fibra óptica real, em Arroio do Sa
 
 Não é projeto de portfólio fictício. É produto em produção, com cliente real, tráfego real e dado real de mais de mil assinantes.
 
----
-
-## 🖼️ Screenshots
-
-> *Prints com dados fictícios/de teste serão adicionados em breve — nunca dado real de cliente.*
-
-<!-- Adicionar prints aqui:
-![Home](./screenshots/home.png)
-![Central de Ajuda](./screenshots/ajuda.png)
-![Assinatura de contrato](./screenshots/contrato.png)
-![Painel de Analytics](./screenshots/analytics.png)
-![Admin](./screenshots/admin.png)
--->
-
----
-
 ## ✨ Funcionalidades
 
 ### Site público
