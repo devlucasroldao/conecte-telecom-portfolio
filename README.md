@@ -75,14 +75,13 @@ admin_login_log       -- auditoria de tentativas de login administrativo
 
 ## 🔒 Segurança — um recorte do trabalho
 
-Parte relevante deste projeto foi uma auditoria de segurança completa, que incluiu:
+Antes da migração para o domínio próprio da empresa, fiz uma auditoria de segurança completa na plataforma. Dela saíram:
 
-- Identificação e correção de uma falha de controle de acesso a dados que expunha informação pessoal de clientes via API pública — corrigida e validada em produção antes de qualquer incidente registrado.
-- Bloqueio de uma rota que permitia gerar documentos com identidade visual e dados legais da empresa sem nenhuma transação real associada.
-- Revisão completa de políticas de acesso a nível de linha (RLS) em toda a base de dados, incluindo tabelas criadas antes do início do versionamento formal de migrations.
-- Armazenamento de documentos sensíveis (contratos assinados) em bucket privado, com acesso temporário controlado por signed URLs — nunca exposição direta.
+- Correção de uma falha crítica de controle de acesso, validada em produção antes de qualquer incidente.
+- Revisão completa das políticas de acesso a nível de linha (RLS) em toda a base de dados, incluindo tabelas criadas antes do versionamento formal de migrations.
+- Armazenamento de contratos assinados em bucket privado, com acesso temporário por signed URLs.
 
-*Detalhes técnicos de exploração não são divulgados aqui por princípio de divulgação responsável — o foco é o processo e a solução, não o vetor.*
+*Detalhes técnicos da falha não são divulgados aqui, por princípio de divulgação responsável.*
 
 ---
 
