@@ -8,6 +8,8 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
+   ![Preview da landing page](public/preview.png)
+
 > ⚠️ **Repositório de estudo de caso** — o código-fonte é propriedade da empresa e não está publicado aqui.
 
 ---
