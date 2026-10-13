@@ -16,7 +16,7 @@
 
 ## 📖 Sobre o projeto
 
-A Conecte Telecom é um provedor de internet fibra óptica em Arroio do Sal, RS, onde sou o responsável pelo marketing digital. Por iniciativa própria, assumi a evolução do site institucional que a empresa já tinha e transformei em uma plataforma completa: **auditoria de segurança, funcionalidades novas e otimização de performance**, até a migração para o domínio próprio da empresa.
+A Conecte Telecom é um provedor de internet fibra óptica em Arroio do Sal, RS, onde sou o responsável pelos canais digitais da Conecte. Por iniciativa própria, assumi a evolução do site institucional que a empresa já tinha e transformei em uma plataforma completa: **auditoria de segurança, funcionalidades novas e otimização de performance**, até a migração para o domínio próprio da empresa.
 
 ## 📈 Em números
 
