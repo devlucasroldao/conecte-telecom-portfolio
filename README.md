@@ -16,13 +16,13 @@
 
 ## 📖 Sobre o projeto
 
-A Conecte Telecom é um provedor de internet fibra óptica em Arroio do Sal, RS, onde sou o responsável pelos canais digitais da Conecte. Por iniciativa própria, assumi a evolução do site institucional que a empresa já tinha e transformei em uma plataforma completa: **auditoria de segurança, funcionalidades novas e otimização de performance**, até a migração para o domínio próprio da empresa.
+A Conecte Telecom é um provedor de internet fibra óptica em Arroio do Sal, RS, onde sou desenvolvedor web e responsável pelos canais digitais. Por iniciativa própria, assumi a evolução do site institucional que a empresa já tinha e transformei em uma plataforma completa: **auditoria de segurança, funcionalidades novas e otimização de performance**, até a migração para o domínio próprio da empresa.
 
 ## 📈 Em números
 
 | | |
 |---|---|
-| Auditoria de segurança | 39 achados (5 críticos), todos corrigidos antes de qualquer incidente |
+| Auditoria de segurança | 39 achados (5 críticos), todos corrigidos |
 | Rastreamento de conversão | de 3 de 19 para 35 de 35 pontos de contato |
 | Carregamento nas páginas afetadas | de 150–1000 ms para 2–20 ms |
 | Contatos pelo WhatsApp vindos do site | cerca de 40 por mês (ago–set/2026) |
@@ -73,7 +73,7 @@ admin_login_log       -- auditoria de tentativas de login administrativo
 
 Antes da migração para o domínio próprio da empresa, fiz uma auditoria de segurança completa na plataforma. Dela saíram:
 
-- Correção de uma falha crítica de controle de acesso, validada em produção antes de qualquer incidente.
+- Correção de uma falha crítica de controle de acesso, validada em produção assim que confirmada.
 - Revisão completa das políticas de acesso a nível de linha (RLS) em toda a base de dados, incluindo tabelas criadas antes do versionamento formal de migrations.
 - Armazenamento de contratos assinados em bucket privado, com acesso temporário por signed URLs.
 
